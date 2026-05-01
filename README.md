@@ -1,4 +1,8 @@
 # CWL207_Coding - Divyanshi Bansal, Anushi Aggarwal, Fizza Alam
+
+Divyanshi Bansal - dbansal5
+Anushi Aggarwal : anushia3
+Fizza Alam: fizzaba2
 ## Project Overview
 This project analyzes IMDb datasets to identify films associated with **Pakistan (PK)** and **Bangladesh (BD)**.  
 We extract detailed information about these films and the people involved, including directors, writers, and cast/crew.
